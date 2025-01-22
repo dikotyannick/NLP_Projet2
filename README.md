@@ -5,7 +5,7 @@ note: the dataset is on a drive (given by the teacher).
 Utilisation d'une file (avis-1-traduit pour simuler le filtrage)
 
 
-Dataset :
+Lien Streamlit Cloud verrs note site de prediction : " https://dikotdelafosse.streamlit.app/ "
 
 Model : SVM ("C:\Users\dikot\StreamlitApp\svm_model.pkl")
 
